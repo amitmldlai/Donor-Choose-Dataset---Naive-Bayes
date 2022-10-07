@@ -1,4 +1,4 @@
-# Donor-Choose-Dataset---Naive-Bayes
+# Donor Choose Dataset using Naive-Bayes
 Solving Donor Choose Dataset using  Naive Bayes algorithm.
 
 Founded in 2000 by a high school teacher in the Bronx, DonorsChoose.org empowers public school teachers from across the country to request much-needed materials and experiences for their students. At any given time, there are thousands of classroom requests that can be brought to life with a gift of any amount.
